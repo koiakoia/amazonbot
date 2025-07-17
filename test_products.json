@@ -1,0 +1,40 @@
+[
+  {
+    "asin": "B08N5WRWNW",
+    "url": "https://www.amazon.com/dp/B08N5WRWNW",
+    "title": "Test Product 1",
+    "price": "$99.99",
+    "rating": "4.5",
+    "rating_count": "1,234 ratings",
+    "availability": "In Stock",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "description": "This is a test product description.",
+    "scraped_at": "2025-01-08T10:30:00"
+  },
+  {
+    "asin": "B123456789",
+    "url": "https://www.amazon.com/dp/B123456789",
+    "title": "Test Product 2",
+    "price": "$149.99",
+    "rating": "4.2",
+    "rating_count": "856 ratings",
+    "availability": "In Stock",
+    "images": [
+      "https://example.com/image3.jpg"
+    ],
+    "features": [
+      "Feature A",
+      "Feature B"
+    ],
+    "description": "Another test product description.",
+    "scraped_at": "2025-01-08T10:31:00"
+  }
+]

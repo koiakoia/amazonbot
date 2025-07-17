@@ -1,0 +1,4 @@
+2025-07-17 16:39:18,536 - INFO - Amazon Product Scraper initialized
+2025-07-17 16:39:18,539 - INFO - Exported 2 products to test_products.csv
+2025-07-17 16:39:18,539 - INFO - Exported 2 products to test_products.json
+2025-07-17 16:39:18,592 - INFO - Exported 2 products to test_products.xlsx
